@@ -1,5 +1,7 @@
 # Terry's Taco Joint Web
 
+🌐 [Ver la demo en GitHub Pages](https://gpasadasfj.github.io/Terry-s-Taco-Joint-Web/)
+
 Este proyecto corresponde a una página web responsiva creada como parte de mi Máster en Desarrollo Full Stack. Está realizada únicamente con **HTML** y **CSS**, y tiene como objetivo mostrar una página de presentación para un restaurante de tacos llamado **Terry's Taco Joint**.
 
 ---
